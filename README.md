@@ -48,7 +48,7 @@ A summary page that highlights the essential KPIs and trends.
 - Top Products table with drill-through enabled  
 
 > **Insert your image:**  
-`![Overview Page](ADD-YOUR-IMAGE-LINK)`
+![Executive view Page]((https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Executive%20View.png))
 
 ---
 
