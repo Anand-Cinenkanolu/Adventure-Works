@@ -142,7 +142,7 @@ A complete list of DAX measures is available in the repository.
 
 ## 🧭 How to Explore
 
-1. Open the [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzkwMzRlOGMtZDBlZS00ZDlmLWJmYTYtMzJlNjdiOTIzZTM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+1. Open the [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNWYyYTQzNGYtZjJjMy00MTkwLTkyNjUtNGQ3MjNmYmY1ZTc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 2. Use the navigation buttons on the Home page
 3. Explore each view: Executive view, Regional view, Product view, and Customer view. 
 4. Apply filters to Slice & Dice the data
