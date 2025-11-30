@@ -48,7 +48,7 @@ A summary page that highlights the essential KPIs and trends.
 - Top Products table with drill-through enabled  
 
 > **Insert your image:**  
-![Executive view Page]((https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Executive%20View.png))
+![Executive view Page](https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Executive%20View.png)
 
 ---
 
@@ -63,7 +63,7 @@ A geographic breakdown of how different countries perform in sales and profitabi
 - Tooltip metrics for each country  
 
 > **Insert your image:**  
-`![Region Page](ADD-YOUR-IMAGE-LINK)`
+![Region Page](https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Regional%20View.png)
 
 ---
 
@@ -79,7 +79,7 @@ A product-specific deep-dive page for analyzing sales patterns over time.
 - Drill-through from main page  
 
 > **Insert your image:**  
-`![Product Page](ADD-YOUR-IMAGE-LINK)`
+![Product Page](https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Product%20view.png)
 
 ---
 
@@ -96,7 +96,7 @@ A complete view of customer behavior and revenue contribution.
 - Year slicers for quick filtering  
 
 > **Insert your image:**  
-`![Customer Page](ADD-YOUR-IMAGE-LINK)`
+![Customer Page](https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Customer%20view.png)
 
 ---
 
@@ -104,7 +104,7 @@ A complete view of customer behavior and revenue contribution.
 
 - I used a **Snowflake schema**, with clean relationships across tables.
 
-![Data Model]()
+![Data Model](https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Data%20Modeling.png)
 
 ---
 
@@ -172,11 +172,10 @@ Adventure-Works/
 This project demonstrates how structured modeling, smart DAX design, and thoughtful visual choices can turn the AdventureWorks dataset into a powerful analysis tool.  
 The dashboard provides clarity, depth, and interactivity—making it useful for business leaders and analysts alike.
 
-> **Insert final image:**  
-`![Final Overview](ADD-YOUR-IMAGE-LINK)`
+> **Power BI Desktop Certificate:**  
+![Final Overview](https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Power%20BI%20Desktop%20certificate.png)
 
-[Add your credential link here]
-
+[View Credential link here](https://certificates.mavenanalytics.io/d0eea93b-9692-4d8a-baab-a2742e50e461#acc.b9yuhk4B)
 
 ## 📣 Contact
 
